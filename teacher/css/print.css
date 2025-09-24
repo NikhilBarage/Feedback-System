@@ -1,0 +1,19 @@
+
+@media print {
+
+		html, body {
+		  width: 210mm;
+		  height: 297mm;
+
+		}
+	  
+		#print-section {
+		  page-break-after: always;
+		}
+	  }
+	
+#print-btn
+	{
+		display: none;
+		visibility: none;
+	}
