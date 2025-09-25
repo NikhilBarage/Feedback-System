@@ -1,10 +1,10 @@
-📝 Student Feedback System
+## 📝 Student Feedback System
 A web-based solution for educational institutes to collect, manage, and analyze student feedback efficiently. Built using HTML, CSS, Bootstrap, PHP, and MySQL for a responsive and dynamic experience.
 
-🎯 Overview
+## 🎯 Overview
 This website allows students to submit feedback for courses and teachers, while admins and teachers can manage and analyze the feedback. The system streamlines feedback collection, improves course quality, and provides detailed performance evaluation for teachers.
 
-✨ Features - 
+## ✨ Features - 
 🔐 User authentication (Login/Signup for Admin, Teacher, and Student)
 📝 Students submit feedback for courses/teachers
 📊 Teachers view performance evaluation based on feedback
