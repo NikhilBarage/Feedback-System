@@ -77,3 +77,9 @@ Input validation on all forms
 Password hashing for accounts
 Role-based access control (Admin/Teacher/Student)
 Localhost deployment minimizes external risks
+
+
+
+
+
+Contact: nikhilbarage1@gmail.com
